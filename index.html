@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Daedalium Guest App | Cultural Resort Sicilia</title>
+  <meta name="description" content="Daedalium Cultural Resort: piscina, terrazza, colazione siciliana e concierge IA per scoprire Scala dei Turchi, Punta Bianca e Valle dei Templi.">
+  <meta name="theme-color" content="#ece6dc">
+  <meta property="og:title" content="Daedalium Guest App">
+  <meta property="og:description" content="Boutique cultural resort tra ulivi, mare e itinerari in Sicilia sud-occidentale.">
+  <meta property="og:image" content="assets/photos/hero.jpg">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+  <link rel="icon" href="assets/icons/favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="stylesheet" href="styles.css">
+  <script src="config.js"></script>
+</head>
+<body>
+  <div class="app-bg"></div>
+  <header class="topbar">
+    <button class="icon-btn" id="menuBtn" aria-label="Apri menu">☰</button>
+    <a class="brand" href="#home" aria-label="Daedalium home">
+      <span class="brand-mark">D</span>
+      <span><b>Daedalium</b><small>Guest App</small></span>
+    </a>
+    <button class="icon-btn" id="installBtn" aria-label="Installa app">⬇</button>
+  </header>
+
+  <aside class="drawer" id="drawer" aria-hidden="true">
+    <div class="drawer-panel glass">
+      <div class="drawer-head"><b>Daedalium</b><button class="icon-btn" id="closeDrawer">×</button></div>
+      <nav id="drawerNav"></nav>
+      <div class="drawer-mini">CIN · IT084027B4LQIKQIRH<br>Versione 0.1.0</div>
+    </div>
+  </aside>
+
+  <main id="app" class="shell"></main>
+
+  <nav class="bottom-nav glass" aria-label="Navigazione principale">
+    <a href="#home" data-nav="home">⌂<span>Home</span></a>
+    <a href="#booking" data-nav="booking">↗<span>Prenota</span></a>
+    <a href="#ai" data-nav="ai">✦<span>IA</span></a>
+    <a href="#contact" data-nav="contact">☎<span>Contatti</span></a>
+  </nav>
+
+  <button class="floating-ai" id="floatingAi" aria-label="Apri Concierge IA">✦</button>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>
