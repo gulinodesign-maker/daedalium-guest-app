@@ -1,0 +1,32 @@
+[
+  {
+    "days": 2,
+    "title": "Weekend romantico",
+    "items": [
+      "Arrivo e tramonto in terrazza",
+      "Mattina piscina e colazione lenta",
+      "Scala dei Turchi al tramonto",
+      "Cena consigliata dal concierge"
+    ]
+  },
+  {
+    "days": 3,
+    "title": "Mare + cultura",
+    "items": [
+      "Punta Bianca e relax in piscina",
+      "Valle dei Templi e centro di Agrigento",
+      "Scala dei Turchi e rientro lento"
+    ]
+  },
+  {
+    "days": 5,
+    "title": "Sicilia sud-occidentale",
+    "items": [
+      "Daedalium come base relax",
+      "Spiagge e calette locali",
+      "Valle dei Templi",
+      "Borghi e Castello Chiaramonte",
+      "Giornata libera tra piscina e terrazza"
+    ]
+  }
+]

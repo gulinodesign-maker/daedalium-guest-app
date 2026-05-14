@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Scala dei Turchi",
+    "tag": "Icona della costa",
+    "area": "Southwest",
+    "img": "scaladeiturchi.jpg",
+    "text": "Una tappa scenografica da inserire in weekend romantici e itinerari fotografici."
+  },
+  {
+    "name": "Punta Bianca",
+    "tag": "Natura e mare",
+    "area": "Southwest",
+    "img": "puntabianca.jpg",
+    "text": "Perfetta per chi cerca paesaggi chiari, mare e senso di scoperta."
+  },
+  {
+    "name": "Valle dei Templi",
+    "tag": "Cultura siciliana",
+    "area": "Southwest",
+    "img": "valledeitempli.jpg",
+    "text": "Il grande motivo culturale per scegliere la zona di Agrigento."
+  },
+  {
+    "name": "Castello Chiaramonte",
+    "tag": "Storia locale",
+    "area": "Southwest",
+    "img": "hero.jpg",
+    "text": "Una tappa vicina per raccontare Palma di Montechiaro e il territorio."
+  },
+  {
+    "name": "Eremo di Santa Rosalia",
+    "tag": "Spiritualità e panorama",
+    "area": "Southwest",
+    "img": "terrace.jpg",
+    "text": "Ideale per ospiti che cercano luoghi silenziosi e autentici."
+  },
+  {
+    "name": "Cala del Re",
+    "tag": "Mare nascosto",
+    "area": "Southwest",
+    "img": "pool.jpg",
+    "text": "Un suggerimento da concierge per chi vuole esplorare oltre le mete più note."
+  },
+  {
+    "name": "Palermo",
+    "tag": "Northwest",
+    "area": "Northwest",
+    "img": "hall.jpg",
+    "text": "Una grande città d’arte da proporre come estensione del viaggio."
+  },
+  {
+    "name": "Scopello",
+    "tag": "Northwest",
+    "area": "Northwest",
+    "img": "rooms.jpg",
+    "text": "Borgo e mare da inserire in tour siciliani più lunghi."
+  },
+  {
+    "name": "Ortigia",
+    "tag": "Southeast",
+    "area": "Southeast",
+    "img": "breakfast.jpg",
+    "text": "Meta di charme per viaggiatori che attraversano la Sicilia."
+  },
+  {
+    "name": "Taormina",
+    "tag": "Southeast",
+    "area": "Southeast",
+    "img": "hero.jpg",
+    "text": "Nome forte per itinerari completi dell’isola."
+  }
+]

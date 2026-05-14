@@ -1,0 +1,22 @@
+[
+  {
+    "q": "Dove si trova Daedalium?",
+    "a": "Daedalium Cultural Resort si trova a Palma di Montechiaro, in provincia di Agrigento, in contrada Gibildolce a Capreria, sulle colline che costeggiano la costa."
+  },
+  {
+    "q": "È adatto a coppie?",
+    "a": "Sì. La formula più forte è un soggiorno romantico e tranquillo: piscina, terrazza, vista, silenzio e itinerari verso Scala dei Turchi, Punta Bianca e Valle dei Templi."
+  },
+  {
+    "q": "Come posso prenotare direttamente?",
+    "a": "Puoi usare il pulsante Prenota, che apre il booking engine ufficiale. In alternativa puoi inviare una richiesta WhatsApp dalla webapp."
+  },
+  {
+    "q": "Cosa posso visitare nei dintorni?",
+    "a": "Le mete principali da proporre sono Scala dei Turchi, Punta Bianca, Valle dei Templi, Castello Chiaramonte, Eremo di Santa Rosalia e spiagge del litorale agrigentino."
+  },
+  {
+    "q": "La webapp usa una vera IA?",
+    "a": "Questa versione include un concierge IA locale basato su FAQ e itinerari. Per un assistente generativo reale basta collegare un endpoint serverless nel file config.js, senza esporre chiavi nel frontend."
+  }
+]
